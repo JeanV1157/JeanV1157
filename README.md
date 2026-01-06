@@ -87,6 +87,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jeanvillanuevavalderrama/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="jeandeveloper2@gmail.com"> <img align="center" src="https://skillicons.dev/icons?i=gmail"/>
 
 </p>
 
